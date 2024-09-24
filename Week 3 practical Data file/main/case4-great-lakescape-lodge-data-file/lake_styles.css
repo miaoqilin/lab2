@@ -1,0 +1,44 @@
+﻿
+@charset "utf-8";
+
+/*
+   Colors for The Great Lakescape Lodge Layout Styles
+   Filename: lake_colors.css
+*/
+
+/* Colors for the layout */
+header {
+    background-color: rgba(196, 8, 165, 0.895); /* Semi-transparent white */
+}
+
+#leftcol {
+    background-color: black; /* Black background */
+    color: white;            /* White text */
+}
+
+#rightcol {
+    background-color: purple; /* Purple background */
+    color: black;             /* Black text */
+}
+
+blockquote {
+    background-color: purple; /* Purple background */
+    color: rgb(255, 5, 209);  /* Pink text */
+}
+
+footer {
+    background-color: #333; /* Dark gray background */
+    color: white;           /* White text */
+}
+
+aside {
+    background-color: #b1d13d; /* Light green background */
+}
+
+a:hover {
+    color: red; /* Link color on hover */
+}
+
+#leftcol h1 {
+    color: #0080ff; /* Header text color */
+}
